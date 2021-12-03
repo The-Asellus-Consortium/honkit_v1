@@ -1,15 +1,13 @@
 # Summary
 
-* [Welcome](README.md)
+* [Introduction](README.md)
 
-* [Introduction](01-intro/README.md)
-
-* [Biology](02-biology/README.md)
-	* [Development](02-biology/development.md)
-	* [Ecology](02-biology/ecology.md)
-	* [Evolution](02-biology/evolution.md)
+* [Biology](biology/README.md)
+	* [Development](biology/development.md)
+	* [Ecology](biology/ecology.md)
+	* [Evolution](biology/evolution.md)
 	
-* [Manuals](03-manuals/README.md)
-	* [Protocols](03-manuals/README.md#manuals)
-	* [Experimental designs](03-manuals/README.md#experimental-designs)
+* [Manuals](manuals/README.md)
+	* [Protocols](manuals/README.md#manuals)
+	* [Experimental designs](manuals/README.md#experimental-designs)
 

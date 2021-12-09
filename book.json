@@ -1,3 +1,10 @@
 {
-    "root": "./source"
+    "root": "./source",
+	"plugins": ["canonical-link"],
+	"pluginsConfig": {
+		"canonical-link": {
+			"baseURL": "https://asellus.org/wiki"
+		}
+    }
 }
+
